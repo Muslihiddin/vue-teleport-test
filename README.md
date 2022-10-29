@@ -1,1 +1,1 @@
-Tested <teleport> thing in vue 3 (composition api) using vite
+Tested Teleport thing in vue 3 (composition api) using vite
